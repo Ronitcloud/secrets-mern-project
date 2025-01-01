@@ -1,0 +1,38 @@
+body {
+
+    background-color: #E8ECEF;
+    
+    }
+    
+    .centered {
+    
+    padding-top: 200px; 
+    text-align: center;
+    
+    }
+    
+    .secret-text {
+    
+    text-align: center;
+    
+    font-size: 2rem;
+    
+    color:#fff;
+    
+    background-color: #000;
+    }
+    INPUT[TYPE="email"],
+    INPUT[TYPE="password"] {
+        margin-bottom: 30px;
+    }
+
+    .cen {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      
+      .jumbotron {
+        text-align: center;
+      }
